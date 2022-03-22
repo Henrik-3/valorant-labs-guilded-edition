@@ -1,2 +1,4 @@
 # valorant-labs-guilded-edition
-VALORANT LABS for the Platform Guilded.gg
+This repository will include the VALORANT LABS Bot for the Platform Guilded.gg
+
+More information whenever there is time for it
